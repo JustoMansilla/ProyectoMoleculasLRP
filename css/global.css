@@ -8210,7 +8210,7 @@ a.icon_bar {
 		background: none
 	}
 	.style-simple .offer_thumb.bottom .slider_pagination a {
-		margin: 3px
+		margin: 5px
 	}
 	.style-simple .offer_thumb .slider_pagination a:before, .style-simple .offer_thumb .slider_pagination a:after {
 		display: none
